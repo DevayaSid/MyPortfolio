@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <header class="bg-gray-800 md:sticky top-0 z-10">
       <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-        <a class="title-font font-medium text-white mb-4 md:mb-0">
+        <a href={() => false} class="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" class="ml-3 text-xl">
             Siddharth Mishra
           </a>
