@@ -23,14 +23,6 @@ export const projects = [
       image: require('./images/livesportcollage.jpeg'),
       link: "https://play.google.com/store/apps/details?id=com.thetechtonic.livesports&hl=en",
     },
-    {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
-    },
   ];
 
   export const skills = [
@@ -61,7 +53,7 @@ export const projects = [
 
   export const workExperiences = [
       {
-          companyName: 'AcumenCog UG', 
+          companyName: 'Publicis Sapient', 
           duration: 'August 2019 - Present'
         },
         {

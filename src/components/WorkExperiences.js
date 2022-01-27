@@ -11,11 +11,6 @@ export default function WorkExperience() {
           <h1 class="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Work Experience
           </h1>
-          {/* <p class="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
-          </p> */}
         </div>
         <div class="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
           {workExperiences.map((workExperience) => (
